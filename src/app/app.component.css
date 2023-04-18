@@ -68,6 +68,15 @@
     margin-left: 45%;
     width: 100%;
     font-family: Arial, Helvetica, sans-serif;
+    list-style-type: none;
+}
+
+.boxright2{
+    margin-top: 3%;
+    margin-left: 37.5%;
+    width: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+    list-style-type: none;
 }
 
 .msg{
